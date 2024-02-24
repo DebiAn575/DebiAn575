@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debayan Dutta</h1>
 <h3 align="center">A passionate Data Strategist with 4 years of experience in Business Intelligence and Data Analytics , specializing in data-driven decision-making and driving strategic business outcomes to enhance digital marketing and financial analysis, and operations excellence.</h3>
 
-- 🌱 I’m currently learning **Data Science, Machine Learning & Text Analytics**
+- 🌱 I’m currently learning **Data Science, Machine Learning, Text Analytics & Business Operations**
 
 - 📫 How to reach me **debayan575@gmail.com**
 
