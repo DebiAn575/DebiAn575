@@ -1,16 +1,16 @@
 ![logo](https://github.com/DebiAn575/DebiAn575/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png.png)
 <h1 align="center">Hi 👋, I'm Debayan</h1>
-<h3 align="center">A passionate Data Strategist with 4 years of experience in Business Intelligence and Data Analytics , specializing in data-driven decision-making and driving strategic business outcomes to enhance digital marketing and financial analysis, and operations excellence.</h3>
+<h3 align="center">A passionate Data Strategist with 4 years of experience in Business Intelligence and Data Analytics , specializing in data-driven decision-making and driving strategic business outcomes to enhance digital marketing management, financial analysis, and operations excellence.</h3>
 
 - 🌱 I’m currently honing my skills in **Data Science, Machine Learning, Text Analytics & Business Operations**
 
 - :open_file_folder: All of my projects are available at [Business_Applications](https://github.com/DebiAn575/Business_Applications/tree/main) repository.
 
-- 👨‍💻 MS in Business Analytics, University of Utah
+- 👨‍💻 I am a Univerity of Utah graduate with a master's degree in Business Analytics
 
 - :m: How to reach me **debayan575@gmail.com**
 
-- :round_pushpin: United States
+- :round_pushpin: Currently I am in the United States
   
 
 
