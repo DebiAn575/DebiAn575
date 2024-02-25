@@ -7,6 +7,7 @@
 - 👨‍💻 All of my projects are available at [Business_Applications](https://github.com/DebiAn575/Business_Applications/tree/main) repository.
 
 - 📫 How to reach me **debayan575@gmail.com**
+- :open_file_folder: All of my projects are available at [Business_Applications](https://github.com/DebiAn575/Business_Applications/tree/main) repository.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
