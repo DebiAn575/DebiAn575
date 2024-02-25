@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently honing my skills in **Data Science, Machine Learning, Text Analytics & Business Operations**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DebiAn575/Business_Applications/tree/main](https://github.com/DebiAn575/Business_Applications/tree/main)
+- 👨‍💻 All of my projects are available at [Business_Applications](https://github.com/DebiAn575/Business_Applications/tree/main) repository.
 
 - 📫 How to reach me **debayan575@gmail.com**
 
