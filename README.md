@@ -4,10 +4,15 @@
 
 - 🌱 I’m currently honing my skills in **Data Science, Machine Learning, Text Analytics & Business Operations**
 
-- 👨‍💻 All of my projects are available at [Business_Applications](https://github.com/DebiAn575/Business_Applications/tree/main) repository.
-
-- 📫 How to reach me **debayan575@gmail.com**
 - :open_file_folder: All of my projects are available at [Business_Applications](https://github.com/DebiAn575/Business_Applications/tree/main) repository.
+
+- 👨‍💻 MS in Business Analytics, University of Utah
+
+- :m: How to reach me **debayan575@gmail.com**
+
+- :round_pushpin: United States
+  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
