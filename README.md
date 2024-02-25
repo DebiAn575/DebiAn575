@@ -1,14 +1,15 @@
 ![logo](https://github.com/DebiAn575/DebiAn575/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png.png)
-<h1 align="center">Hi 👋, I'm Debayan </h1>
+<h1 align="center">Hi 👋, I'm Debayan</h1>
 <h3 align="center">A passionate Data Strategist with 4 years of experience in Business Intelligence and Data Analytics , specializing in data-driven decision-making and driving strategic business outcomes to enhance digital marketing and financial analysis, and operations excellence.</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Text Analytics & Business Operations**
+
+- 👨‍💻 All of my projects are available at [https://github.com/DebiAn575/Business_Applications/tree/main](https://github.com/DebiAn575/Business_Applications/tree/main)
 
 - 📫 How to reach me **debayan575@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/debayan-dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debayan-dutta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
